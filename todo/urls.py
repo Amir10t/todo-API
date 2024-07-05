@@ -7,5 +7,5 @@ urlpatterns = [
     path('todos/schema/', SpectacularAPIView.as_view(), name='schema'),
     path("todos/drf/", views.TodoListAPIView.as_view()),
     path("todos/drf/<pk>", views.TodoDetailAPIView.as_view()),
-    path("user/", views.UserListAPIView.as_view())
+    path("users/drf/", views.UserListAPIView.as_view())
 ]
