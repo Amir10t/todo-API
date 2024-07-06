@@ -48,3 +48,10 @@
 
 > ## STEP 7
 > Follow Me & Star The Project :)
+
+# Other Things
+## More URLs
+> http://127.0.0.1:8000/todos/schema/ <br>
+> http://127.0.0.1:8000/todos/drf/ <br>
+> http://127.0.0.1:8000/todos/drf/ {Write TodoID Here} <br>
+> http://127.0.0.1:8000/users/drf/ <br>
