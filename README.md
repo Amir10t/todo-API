@@ -13,6 +13,7 @@
 > <pre>
 > .\venv\Scripts\activate
 > </pre>
+> <img src="https://github.com/Amir10t/todo-API/blob/main/Images/i%20(1).png">
 > </div>
 
 > ## STEP 2 : Clone The Project
@@ -34,13 +35,16 @@
 > <pre>
 > python manage.py runserver
 > </pre>
+> <img src="https://github.com/Amir10t/todo-API/blob/main/Images/i%20(2).png">
 > </div>
 
 > ## STEP 5
 > go the http://127.0.0.1:8000/todos
+> <img src="https://github.com/Amir10t/todo-API/blob/main/Images/i%20(3).png">
 
 > ## STEP 6
 > take your token (superuser : username -> admin, password -> 123, email-address -> admin@admin.com) and be is_authenticated
+> <img src="https://github.com/Amir10t/todo-API/blob/main/Images/i%20(4).png">
 
 > ## STEP 7
 > Follow Me & Star The Project :)
